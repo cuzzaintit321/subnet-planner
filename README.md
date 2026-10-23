@@ -2,8 +2,7 @@
 
 ![subnet-planner project banner](docs/project-banner.webp)
 
-A dependency-free **Python** CLI for offline IPv4/IPv6 subnet inspection, splitting, and address-space overlap checks. Built as a new learning and portfolio project for Jason Edwards; no production network or employer deployment is claimed.
-
+A dependency-free **Python** CLI for offline IPv4/IPv6 subnet inspection, splitting, and address-space overlap checks. 
 ## Run
 
 Requires Python 3.11+. No pip installation, network access, or root privileges are required.
